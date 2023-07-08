@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Burner-rescue")(type "Legacy")(uri "${KIPRJMOD}/Burner-rescue.lib")(options "")(descr ""))
+)

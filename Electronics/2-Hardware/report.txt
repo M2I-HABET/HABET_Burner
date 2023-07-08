@@ -1,0 +1,33 @@
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/sym-lib-table' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/sym-lib-table-2023-07-06-10-36-12'.
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/Burner.sch' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/Burner-2023-07-06-10-36-12.sch'.
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/Burner.kicad_pro' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/Burner-2023-07-06-10-36-12.kicad_pro'.
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/Burner-cache.lib' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/Burner-cache-2023-07-06-10-36-12.lib'.
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/Burner-rescue.lib' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/Burner-rescue-2023-07-06-10-36-12.lib'.
+Info: Backing up file '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/Burner-rescue.dcm' to '/Users/matgyver/GitHub/HABET_Burner/Electronics/2-Hardware/rescue-backup/Burner-rescue-2023-07-06-10-36-12.dcm'.
+Info: Adding library 'Burner-rescue', file '${KIPRJMOD}/Burner-rescue.lib' to project symbol library table.
+Symbol MOSFET_N mapped to symbol library 'Burner-rescue'.
+Symbol GND mapped to symbol library 'Burner-rescue'.
+Symbol R mapped to symbol library 'Burner-rescue'.
+Symbol R mapped to symbol library 'Burner-rescue'.
+Symbol +BATT mapped to symbol library 'Burner-rescue'.
+Symbol CONN_1 mapped to symbol library 'Burner-rescue'.
+Symbol LM317-4Pin mapped to symbol library 'Burner-rescue'.
+Symbol C mapped to symbol library 'Burner-rescue'.
+Symbol GND mapped to symbol library 'Burner-rescue'.
+Symbol +BATT mapped to symbol library 'Burner-rescue'.
+Symbol CONN_2 mapped to symbol library 'Burner-rescue'.
+Symbol CONN_2 mapped to symbol library 'Burner-rescue'.
+Symbol +BATT mapped to symbol library 'Burner-rescue'.
+Symbol +BATT mapped to symbol library 'Burner-rescue'.
+Symbol CONN_2 mapped to symbol library 'Burner-rescue'.
+Symbol GND mapped to symbol library 'Burner-rescue'.
+Symbol DIFF_RX mapped to symbol library 'Burner-rescue'.
+Symbol GND mapped to symbol library 'Burner-rescue'.
+Symbol C mapped to symbol library 'Burner-rescue'.
+Symbol CONN_2 mapped to symbol library 'Burner-rescue'.
+Symbol CONN_1 mapped to symbol library 'Burner-rescue'.
+Symbol MSP430G2553-20 mapped to symbol library 'Burner-rescue'.
+Symbol GND mapped to symbol library 'Burner-rescue'.
+Info: Symbol library table mapping complete!
+Info: Created project symbol library table.
+
